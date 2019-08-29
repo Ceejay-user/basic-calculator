@@ -1,0 +1,54 @@
+
+body {
+    background-color: #f9f9fa;
+
+}
+.container {
+    width: 350px;
+    background-color: rgb(8, 8, 8);
+    margin: 120px auto;
+
+}
+#result {
+    height: 90px;
+    font-size: 40px;
+    font-family: Baskerville;
+    vertical-align: bottom;
+    text-align: right;
+    padding-right: 16px;
+    background-color: #ffffff;
+    color: black;
+}
+
+table {
+    width: 100%;
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 30px;
+    border-width: 10px;
+}
+
+td {
+    width: 25%;
+}
+button {
+    width: 100%;
+    height: 70px;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: rgb(248, 16, 16);
+    border: none;
+    color: white;
+}
+
+#equal_btn {
+     padding: 140px 0px 140px 0px;
+     text-align: center;
+     font-size: 40px;
+
+}
+.disp {
+    background-color:rgb(17, 230, 52);
+    color:black;
+    font-weight: bolder;
+
+}
